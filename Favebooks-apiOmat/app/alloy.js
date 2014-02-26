@@ -9,3 +9,8 @@
 // object. For example:
 //
 // Alloy.Globals.someGlobalFunction = function(){};
+
+var Apiomat = require("/apiomat");
+
+Alloy.Collections.books = new Backbone.Collection();
+Alloy.Collections.books.reset();

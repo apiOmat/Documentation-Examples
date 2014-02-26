@@ -1,5 +1,4 @@
 <Alloy>
-    <Collection src="books"/>
     <Window class="container">
         <!-- Add TableView and  TableViewRow -->
         <TableView dataCollection="books">
