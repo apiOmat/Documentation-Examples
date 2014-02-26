@@ -9,7 +9,7 @@ You can find a step by step guide on what was changed here: http://www.apiomat.c
 3. In the Import dialog select **Existing Mobile Project** from the Titanium (or Studio) folder and click **Next**.
 4. Browse to folder containing the project and click Finish.
 
-To get the app running, you only need to set up the backend accordingly, copy the SDK into the project and use your account credentials. All as explained in the [Quickstart](http://www.apiomat.com/docs/titanium-quickstart/).
+To get the app running, you only need to set up the backend accordingly, copy the SDK into the project (/app/lib) and use your account credentials. All as explained in the [Quickstart](http://www.apiomat.com/docs/titanium-quickstart/).
 
 ----------------------------------
 
