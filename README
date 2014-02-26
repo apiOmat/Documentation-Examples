@@ -1,1 +1,1 @@
-Repo for sample applications referenced in the documentation.
+Repo for sample Titanium applications that were customized to use apiOmat as data storage instead of SQLite or local storage.
