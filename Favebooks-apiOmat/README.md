@@ -1,6 +1,6 @@
 This is the finished customized project for using the apiOmat backend instead of an SQLite database as storage.
 
-You can find a step by step guide on what was changed here: http://www.apiomat.com/docs/titanium-quickstart/
+You can find a step by step guide on what was changed here: http://www.apiomat.com/docs/tutorials/titanium-quickstart/
 
 **To import from the file system**:
 
