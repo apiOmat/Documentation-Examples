@@ -1,5 +1,4 @@
 <Alloy>
-    <Collection src="books"/>
     <NavigationWindow id="navGroupWin">
         <Window class="container" title="My Books">
             <TableView dataCollection="books" id="bookTable">
